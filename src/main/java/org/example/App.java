@@ -77,5 +77,6 @@ public class App {
         } else {
             System.out.println("Введено неверное число");
         };
+          scan.close();
     }
 }
